@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\bin\Debug\матрица.exe.config
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\bin\Debug\матрица.exe
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\bin\Debug\матрица.pdb
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\obj\Debug\матрица.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\obj\Debug\матрица.Form1.resources
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\obj\Debug\матрица.Properties.Resources.resources
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\obj\Debug\матрица.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\obj\Debug\матрица.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\obj\Debug\матрица.exe
+C:\Users\Maria\Desktop\Технология программирования\матрица\матрица\obj\Debug\матрица.pdb
